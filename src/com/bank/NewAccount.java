@@ -6,9 +6,5 @@ public class NewAccount {
 		
 		
 	}
-	
-	public void m4() {
-		System.out.println("hi");
-	}
 
 }
